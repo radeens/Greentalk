@@ -1,3 +1,2 @@
-# Ruby on Rails greenTalk
-
-Micropost and comment on rails.
+# Ruby on Rails App
+                    Micropost and comments on rails.
